@@ -1,0 +1,11 @@
+[
+  {
+    "PropertyGroupId": "FlinkApplicationProperties",
+    "PropertyMap": {
+      "ElasticsearchEndpoint": "https://search-kda-demo2-ekmzmkvjflvxv5r4iilcgjm44y.eu-west-1.es.amazonaws.com",
+      "EventTime": "true",
+      "InputStreamName": "test4",
+      "Region": "eu-west-1"
+    }
+  }
+]
