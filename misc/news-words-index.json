@@ -1,0 +1,17 @@
+{
+    "mappings": {
+        "news_words": {
+            "properties": {
+                "word": {
+                    "type": "keyword"
+                },
+                "count": {
+                    "type": "long"
+                },
+                "timestamp": {
+                    "type": "date"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "mappings": {
+        "news_position": {
+            "properties": {
+                "location": {
+                    "type": "geo_point"
+                },
+                "newsGeoCount": {
+                    "type": "long"
+                },
+                "timestamp": {
+                    "type": "date"
+                }
+            }
+        }
+    }
+}
